@@ -1,0 +1,4 @@
+class launch
+{
+  (//some code)
+}
